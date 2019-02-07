@@ -1,0 +1,16 @@
+lrwxrwxrwx 1 sthapa rtk   25 Jan 24 07:19 work -> /data_storage/work/sthapa
+-rwxr-xr-x 1 sthapa rtk 1279 Jan 28 23:47 dne_replace_obscenes.pl
+-rwxr-xr-x 1 sthapa rtk 2219 Jan 28 23:47 DVRMarket_replace_negative_dvr_buckets_with_0.pl
+-rwxr-xr-x 1 sthapa rtk 1942 Jan 28 23:47 replace_negatives.pl
+drwxr-xr-x 2 sthapa rtk 4096 Jan 30 23:53 REISSUE_TOOLS
+-rwxr-xr-x 1 sthapa rtk  157 Jan 31 06:16 Result.txt
+-rwxr-xr-x 1 sthapa rtk  162 Feb  1 04:19 demo.txt
+-rwxr-xr-x 1 sthapa rtk  631 Feb  1 04:30 Time_Avg.sh
+-rwxr-xr-x 1 sthapa rtk  626 Feb  1 05:39 test_script.sh
+-rwxr-xr-x 1 sthapa rtk  409 Feb  1 06:58 test.sh
+-rwxr-xr-x 1 sthapa rtk 9206 Feb  4 08:09 Test.txt
+-rwxr-xr-x 1 sthapa rtk  324 Feb  4 08:09 Test2.txt
+-rw-rw-r-- 1 sthapa rtk   22 Feb  4 08:09 Count.txt
+-rw-rw-r-- 1 sthapa rtk    2 Feb  4 08:09 count2.txt
+-rwxr-xr-x 1 sthapa rtk 2242 Feb  4 08:10 Timestamp.sh
+-rwxr-xr-x 1 sthapa rtk 1616 Feb  5 05:44 Timestamp.py
